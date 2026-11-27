@@ -1,0 +1,4 @@
+# Normalise text files; keep the generated CSVs byte-identical to generate_data.py output (LF endings)
+* text=auto
+*.csv text eol=lf
+*.docx binary

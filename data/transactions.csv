@@ -1,0 +1,436 @@
+date,description,amount,type,category
+2026-05-01,Swiggy Instamart - Order #27430,329,expense,Groceries
+2026-05-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-05-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-05-02,POS/Flipkart/Bengaluru,2427,expense,Shopping
+2026-05-02,POS/Swiggy Instamart/Bengaluru,201,expense,Groceries
+2026-05-02,Rapido - Trip #12433,98,expense,Transport
+2026-05-02,UPI/Behrouz Biryani/499072778,747,expense,Food & Dining
+2026-05-02,UPI/Blinkit/684861940,316,expense,Groceries
+2026-05-03,UPI/Swiggy/646476787,204,expense,Food & Dining
+2026-05-04,Behrouz Biryani - Lunch,962,expense,Food & Dining
+2026-05-04,Rapido - Ride,258,expense,Transport
+2026-05-04,UPI/Rahul Sharma/Dinner split,1759,expense,Transfers
+2026-05-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-05-06,UPI/Blinkit/230071769,430,expense,Groceries
+2026-05-06,Uber - Ride,94,expense,Transport
+2026-05-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-05-07,Zomato - Order #73954,345,expense,Food & Dining
+2026-05-08,BESCOM - Electricity bill May 2026,1784,expense,Bills & Utilities
+2026-05-08,POS/BigBasket/Bengaluru,2041,expense,Groceries
+2026-05-08,Swiggy - Order #44234,608,expense,Food & Dining
+2026-05-08,Uber - Trip #92719,168,expense,Transport
+2026-05-09,BigBasket - Vegetables and fruits,1641,expense,Groceries
+2026-05-09,POS/Uber/Bengaluru,96,expense,Transport
+2026-05-09,Sapna Book House - Books,562,expense,Education
+2026-05-10,POS/Swiggy/Bengaluru,489,expense,Food & Dining
+2026-05-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-05-10,UPI/Swiggy/608835992,400,expense,Food & Dining
+2026-05-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-05-12,POS/Meghana Foods/Bengaluru,608,expense,Food & Dining
+2026-05-12,PVR Cinemas - Movie tickets,459,expense,Entertainment
+2026-05-14,POS/Ajio/Bengaluru,1105,expense,Shopping
+2026-05-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-05-15,BigBasket - Vegetables and fruits,2120,expense,Groceries
+2026-05-15,POS/Swiggy/Bengaluru,486,expense,Food & Dining
+2026-05-16,Domino's Pizza - Lunch,323,expense,Food & Dining
+2026-05-16,POS/Rapido/Bengaluru,125,expense,Transport
+2026-05-16,Rapido - Ride,455,expense,Transport
+2026-05-16,UPI/INOX/324818834,360,expense,Entertainment
+2026-05-16,Zomato - Order #57304,467,expense,Food & Dining
+2026-05-17,UPI/Tata 1mg/924713216,233,expense,Health
+2026-05-18,BigBasket - Monthly groceries,2081,expense,Groceries
+2026-05-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-05-19,POS/Rapido/Bengaluru,80,expense,Transport
+2026-05-19,UPI/Uber/788632451,372,expense,Transport
+2026-05-20,Indane Gas - Cylinder refill,905,expense,Bills & Utilities
+2026-05-20,POS/Uber/Bengaluru,204,expense,Transport
+2026-05-23,Cafe Coffee Day - Coffee,136,expense,Food & Dining
+2026-05-23,Domino's Pizza - Indiranagar,1163,expense,Food & Dining
+2026-05-23,Rapido - Ride,278,expense,Transport
+2026-05-23,Swiggy Instamart - Order #58342,584,expense,Groceries
+2026-05-24,POS/Truffles/Bengaluru,1458,expense,Food & Dining
+2026-05-24,UPI/Ola/469197930,84,expense,Transport
+2026-05-24,Zomato - Order #37026,477,expense,Food & Dining
+2026-05-25,POS/Nykaa/Bengaluru,2208,expense,Shopping
+2026-05-25,POS/Zomato/Bengaluru,492,expense,Food & Dining
+2026-05-25,UPI/Ananya Reddy/Movie split,896,expense,Transfers
+2026-05-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-05-25,Zomato - Order #28856,399,expense,Food & Dining
+2026-05-26,UPI/Namma Metro/806287103,324,expense,Transport
+2026-05-27,BESCOM - Electricity bill arrears,5240,expense,Bills & Utilities
+2026-05-27,POS/Nykaa/Bengaluru,2749,expense,Shopping
+2026-05-27,Upwork - Freelance payment,10500,income,Other Income
+2026-05-28,POS/Swiggy Instamart/Bengaluru,740,expense,Groceries
+2026-05-28,PVR Cinemas - Movie tickets,585,expense,Entertainment
+2026-05-29,Uber - Ride,221,expense,Transport
+2026-05-30,Blinkit - Order #55929,265,expense,Groceries
+2026-05-30,UPI/Sneha Iyer/Trip split,248,expense,Transfers
+2026-06-01,Apollo Pharmacy - Medicines,470,expense,Health
+2026-06-01,UPI/Rapido/777769646,240,expense,Transport
+2026-06-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-06-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-06-02,UPI/Truffles/660983383,1528,expense,Food & Dining
+2026-06-03,UPI/Priya Nair/Cab share,503,expense,Transfers
+2026-06-05,POS/Ajio/Bengaluru,563,expense,Shopping
+2026-06-05,Swiggy - Order #39701,618,expense,Food & Dining
+2026-06-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-06-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-06-07,POS/PVR Cinemas/Bengaluru,320,expense,Entertainment
+2026-06-08,BESCOM - Electricity bill Jun 2026,1779,expense,Bills & Utilities
+2026-06-08,Swiggy - Order #1537,588,expense,Food & Dining
+2026-06-09,UPI/Ananya Reddy/Movie split,784,expense,Transfers
+2026-06-10,Blinkit - Order #97173,430,expense,Groceries
+2026-06-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-06-10,Uber - Trip #32330,166,expense,Transport
+2026-06-11,POS/Blinkit/Bengaluru,248,expense,Groceries
+2026-06-11,Rapido - Ride,360,expense,Transport
+2026-06-11,UPI/Sneha Iyer/Trip split,993,expense,Transfers
+2026-06-11,UPI/Tata 1mg/329185172,669,expense,Health
+2026-06-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-06-12,POS/Namma Metro/Bengaluru,409,expense,Transport
+2026-06-12,POS/Rapido/Bengaluru,364,expense,Transport
+2026-06-12,Udemy - Data science course,508,expense,Education
+2026-06-13,UPI/DMart/384592736,1470,expense,Groceries
+2026-06-13,Udemy - Python course,450,expense,Education
+2026-06-14,Croma - Sony WH-1000XM5 headphones,18990,expense,Shopping
+2026-06-14,UPI/Third Wave Coffee/129140761,127,expense,Food & Dining
+2026-06-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-06-15,Blinkit - Order #44824,309,expense,Groceries
+2026-06-15,Swiggy Instamart - Order #73605,673,expense,Groceries
+2026-06-15,UPI/Ola/893067201,356,expense,Transport
+2026-06-15,Uber - Ride,216,expense,Transport
+2026-06-17,Blinkit - Order #42421,418,expense,Groceries
+2026-06-17,UPI/Amit Verma/Dinner split,1987,expense,Transfers
+2026-06-17,UPI/Rapido/249316180,470,expense,Transport
+2026-06-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-06-18,Cashback - Amazon Pay,31,income,Other Income
+2026-06-19,Ola - Ride,409,expense,Transport
+2026-06-19,POS/Zepto/Bengaluru,323,expense,Groceries
+2026-06-19,Rapido - Ride,463,expense,Transport
+2026-06-20,Chaayos - Coffee,141,expense,Food & Dining
+2026-06-20,POS/Swiggy/Bengaluru,687,expense,Food & Dining
+2026-06-20,Swiggy - Order #20976,542,expense,Food & Dining
+2026-06-21,BookMyShow - Movie tickets,346,expense,Entertainment
+2026-06-21,Disney+ Hotstar - Super plan,299,expense,Entertainment
+2026-06-21,UPI/Cafe Coffee Day/103941260,425,expense,Food & Dining
+2026-06-21,Zepto - Order #45207,423,expense,Groceries
+2026-06-23,POS/Uber/Bengaluru,254,expense,Transport
+2026-06-23,Swiggy - Order #92239,675,expense,Food & Dining
+2026-06-24,Domino's Pizza - Lunch,1594,expense,Food & Dining
+2026-06-24,POS/Ola/Bengaluru,447,expense,Transport
+2026-06-24,Starbucks - Coffee,258,expense,Food & Dining
+2026-06-24,Swiggy - Order #10080,360,expense,Food & Dining
+2026-06-24,Swiggy - Order #74010,712,expense,Food & Dining
+2026-06-24,UPI/Uber/428427424,476,expense,Transport
+2026-06-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-06-26,POS/Truffles/Bengaluru,1032,expense,Food & Dining
+2026-06-27,POS/Swiggy/Bengaluru,222,expense,Food & Dining
+2026-06-27,UPI/Practo/504074660,484,expense,Health
+2026-06-28,POS/Swiggy Instamart/Bengaluru,734,expense,Groceries
+2026-06-28,Rapido - Ride,99,expense,Transport
+2026-06-28,UPI/Lenskart/176337344,2209,expense,Shopping
+2026-06-28,UPI/Swiggy/382995981,231,expense,Food & Dining
+2026-06-29,POS/Lenskart/Bengaluru,1417,expense,Shopping
+2026-06-30,Domino's Pizza - Dinner,1056,expense,Food & Dining
+2026-06-30,POS/Decathlon/Bengaluru,803,expense,Shopping
+2026-06-30,Interest Credit - HDFC Bank,609,income,Other Income
+2026-07-01,INOX - Movie tickets,688,expense,Entertainment
+2026-07-01,UPI/Priya Nair/Birthday gift,1067,expense,Transfers
+2026-07-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-07-02,Ajio - Order #15524,425,expense,Shopping
+2026-07-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-07-04,Swiggy - Order #98474,209,expense,Food & Dining
+2026-07-04,UPI/Amit Verma/Dinner split,608,expense,Transfers
+2026-07-05,Ajio - Order #84127,812,expense,Shopping
+2026-07-05,Behrouz Biryani - Lunch,296,expense,Food & Dining
+2026-07-05,Ola - Ride,149,expense,Transport
+2026-07-05,POS/PVR Cinemas/Bengaluru,355,expense,Entertainment
+2026-07-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-07-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-07-08,BESCOM - Electricity bill Jul 2026,1427,expense,Bills & Utilities
+2026-07-08,POS/Ola/Bengaluru,195,expense,Transport
+2026-07-08,POS/Zomato/Bengaluru,206,expense,Food & Dining
+2026-07-08,UPI/Ola/261542864,166,expense,Transport
+2026-07-08,UPI/Uber/462301933,96,expense,Transport
+2026-07-08,Cashback - Amazon Pay,62,income,Other Income
+2026-07-09,Zomato - Order #3895,646,expense,Food & Dining
+2026-07-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-07-11,POS/Zomato/Bengaluru,269,expense,Food & Dining
+2026-07-11,UPI/Cafe Coffee Day/385872070,135,expense,Food & Dining
+2026-07-11,UPI/Swiggy/752664987,558,expense,Food & Dining
+2026-07-12,DMart - Monthly groceries,2160,expense,Groceries
+2026-07-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-07-12,POS/Swiggy/Bengaluru,299,expense,Food & Dining
+2026-07-13,Sapna Book House - Books,644,expense,Education
+2026-07-13,UPI/Rahul Sharma/Birthday gift,1977,expense,Transfers
+2026-07-13,UPI/Rapido/387219239,214,expense,Transport
+2026-07-13,UPI/Uber/761616483,143,expense,Transport
+2026-07-14,POS/Cafe Coffee Day/Bengaluru,463,expense,Food & Dining
+2026-07-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-07-15,POS/PharmEasy/Bengaluru,518,expense,Health
+2026-07-16,Behrouz Biryani - Dinner,380,expense,Food & Dining
+2026-07-16,Cafe Coffee Day - Coffee,487,expense,Food & Dining
+2026-07-16,Ola - Trip #13668,246,expense,Transport
+2026-07-16,Swiggy - Order #15996,195,expense,Food & Dining
+2026-07-16,Uber - Trip #4618,190,expense,Transport
+2026-07-17,Flipkart - Order #16550,662,expense,Shopping
+2026-07-17,Namma Metro - Card recharge,341,expense,Transport
+2026-07-17,UPI/Zepto/679991233,296,expense,Groceries
+2026-07-17,Udemy - Data science course,597,expense,Education
+2026-07-18,POS/HP Petrol Pump/Bengaluru,559,expense,Transport
+2026-07-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-07-18,UPI/Zepto/456549849,551,expense,Groceries
+2026-07-19,Meghana Foods - Dinner,336,expense,Food & Dining
+2026-07-19,UPI/McDonald's/264117777,298,expense,Food & Dining
+2026-07-20,Indane Gas - Cylinder refill,905,expense,Bills & Utilities
+2026-07-21,Disney+ Hotstar - Super plan,299,expense,Entertainment
+2026-07-21,Upwork - Freelance payment,10500,income,Other Income
+2026-07-22,Apollo Hospitals - Emergency treatment,12450,expense,Health
+2026-07-22,Tata 1mg - Medicines,172,expense,Health
+2026-07-22,Zepto - Order #41387,304,expense,Groceries
+2026-07-24,INOX - Movie tickets,674,expense,Entertainment
+2026-07-24,Ola - Trip #68770,85,expense,Transport
+2026-07-25,Cafe Coffee Day - Snacks,202,expense,Food & Dining
+2026-07-25,Reliance Fresh - Vegetables and fruits,910,expense,Groceries
+2026-07-25,Swiggy - Order #87556,602,expense,Food & Dining
+2026-07-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-07-26,UPI/Swiggy/718721238,196,expense,Food & Dining
+2026-07-27,POS/DMart/Bengaluru,2019,expense,Groceries
+2026-07-27,UPI/Truffles/993776122,347,expense,Food & Dining
+2026-07-28,BigBasket - Vegetables and fruits,1107,expense,Groceries
+2026-07-28,POS/Zomato/Bengaluru,622,expense,Food & Dining
+2026-07-28,Rapido - Trip #25990,379,expense,Transport
+2026-07-28,Uber - Trip #77462,88,expense,Transport
+2026-07-29,Zepto - Order #96192,699,expense,Groceries
+2026-07-30,Rapido - Trip #54119,89,expense,Transport
+2026-08-01,POS/Third Wave Coffee/Bengaluru,348,expense,Food & Dining
+2026-08-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-08-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-08-02,Domino's Pizza - Indiranagar,320,expense,Food & Dining
+2026-08-02,POS/HP Petrol Pump/Bengaluru,402,expense,Transport
+2026-08-02,POS/Uber/Bengaluru,254,expense,Transport
+2026-08-02,UPI/Blinkit/874253696,286,expense,Groceries
+2026-08-03,Chaayos - Coffee,381,expense,Food & Dining
+2026-08-03,MedPlus - Medicines,144,expense,Health
+2026-08-03,POS/PVR Cinemas/Bengaluru,1022,expense,Entertainment
+2026-08-03,POS/Swiggy/Bengaluru,609,expense,Food & Dining
+2026-08-04,UPI/Swiggy/821250489,721,expense,Food & Dining
+2026-08-04,Uber - Trip #97116,216,expense,Transport
+2026-08-05,PharmEasy - Medicines,129,expense,Health
+2026-08-05,Swiggy - Order #41587,688,expense,Food & Dining
+2026-08-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-08-06,POS/Rapido/Bengaluru,264,expense,Transport
+2026-08-06,Zepto - Order #1105,478,expense,Groceries
+2026-08-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-08-08,BESCOM - Electricity bill Aug 2026,1311,expense,Bills & Utilities
+2026-08-08,UPI/Behrouz Biryani/731251990,934,expense,Food & Dining
+2026-08-08,UPI/Zomato/645598551,305,expense,Food & Dining
+2026-08-08,Zomato - Order #54909,325,expense,Food & Dining
+2026-08-09,Meghana Foods - Lunch,1334,expense,Food & Dining
+2026-08-09,Rapido - Trip #42343,351,expense,Transport
+2026-08-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-08-11,POS/Ola/Bengaluru,149,expense,Transport
+2026-08-11,Rapido - Ride,130,expense,Transport
+2026-08-11,Uber - Ride,152,expense,Transport
+2026-08-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-08-12,Namma Metro - Card recharge,551,expense,Transport
+2026-08-13,Flipkart - Order #57848,3415,expense,Shopping
+2026-08-13,POS/Uber/Bengaluru,140,expense,Transport
+2026-08-14,Blinkit - Order #30815,217,expense,Groceries
+2026-08-14,Ola - Ride,225,expense,Transport
+2026-08-14,Zomato - Order #68655,389,expense,Food & Dining
+2026-08-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-08-15,POS/MedPlus/Bengaluru,497,expense,Health
+2026-08-15,Rapido - Ride,182,expense,Transport
+2026-08-15,Zomato - Order #88231,4860,expense,Food & Dining
+2026-08-16,POS/Indian Oil/Bengaluru,1172,expense,Transport
+2026-08-16,POS/Swiggy/Bengaluru,839,expense,Food & Dining
+2026-08-16,UPI/Swiggy/628790651,590,expense,Food & Dining
+2026-08-17,Lenskart - Order #91248,318,expense,Shopping
+2026-08-17,UPI/Ola/222732846,170,expense,Transport
+2026-08-17,UPI/Truffles/849276355,646,expense,Food & Dining
+2026-08-18,Rapido - Ride,144,expense,Transport
+2026-08-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-08-18,UPI/Priya Nair/Dinner split,327,expense,Transfers
+2026-08-18,UPI/Zepto/951921891,560,expense,Groceries
+2026-08-18,Zepto - Order #26758,660,expense,Groceries
+2026-08-19,POS/BigBasket/Bengaluru,1091,expense,Groceries
+2026-08-19,UPI/Zepto/517727537,164,expense,Groceries
+2026-08-20,Amazon - Order #42074,2719,expense,Shopping
+2026-08-20,Swiggy - Order #45608,369,expense,Food & Dining
+2026-08-21,Disney+ Hotstar - Super plan,299,expense,Entertainment
+2026-08-21,UPI/Swiggy Instamart/246241862,412,expense,Groceries
+2026-08-22,Starbucks - Coffee,199,expense,Food & Dining
+2026-08-24,POS/Barbeque Nation/Bengaluru,1267,expense,Food & Dining
+2026-08-24,UPI/Ola/450187039,207,expense,Transport
+2026-08-25,UPI/Rahul Sharma/Dinner split,333,expense,Transfers
+2026-08-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-08-25,Upwork - Freelance payment,7000,income,Other Income
+2026-08-26,POS/Swiggy/Bengaluru,661,expense,Food & Dining
+2026-08-26,POS/Swiggy/Bengaluru,511,expense,Food & Dining
+2026-08-26,POS/Swiggy/Bengaluru,435,expense,Food & Dining
+2026-08-27,Blinkit - Order #75561,187,expense,Groceries
+2026-08-28,BigBasket - Monthly groceries,2153,expense,Groceries
+2026-08-28,UPI/Zomato/426305918,767,expense,Food & Dining
+2026-08-29,INOX - Movie tickets,339,expense,Entertainment
+2026-08-29,POS/Blinkit/Bengaluru,737,expense,Groceries
+2026-08-30,Nykaa - Order #14240,3923,expense,Shopping
+2026-08-30,Rapido - Trip #44038,449,expense,Transport
+2026-08-30,UPI/Ajio/371588379,228,expense,Shopping
+2026-08-30,UPI/Decathlon/457509970,240,expense,Shopping
+2026-08-31,Swiggy - Order #34387,356,expense,Food & Dining
+2026-08-31,Udemy - Python course,584,expense,Education
+2026-09-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-09-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-09-03,BigBasket - Vegetables and fruits,1856,expense,Groceries
+2026-09-04,UPI/Sneha Iyer/Cab share,346,expense,Transfers
+2026-09-04,Uber - Ride,302,expense,Transport
+2026-09-05,Domino's Pizza - Koramangala,1263,expense,Food & Dining
+2026-09-05,Nykaa - Order #92266,261,expense,Shopping
+2026-09-05,POS/Swiggy Instamart/Bengaluru,160,expense,Groceries
+2026-09-05,POS/Zomato/Bengaluru,273,expense,Food & Dining
+2026-09-05,Swiggy - Order #38019,308,expense,Food & Dining
+2026-09-05,Swiggy - Order #49700,689,expense,Food & Dining
+2026-09-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-09-05,Uber - Airport ride,2350,expense,Transport
+2026-09-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-09-07,POS/Swiggy/Bengaluru,668,expense,Food & Dining
+2026-09-07,Swiggy - Order #37183,354,expense,Food & Dining
+2026-09-07,Uber - Trip #75220,385,expense,Transport
+2026-09-08,BESCOM - Electricity bill Sep 2026,1220,expense,Bills & Utilities
+2026-09-08,Nykaa - Order #70751,2172,expense,Shopping
+2026-09-08,POS/Rapido/Bengaluru,406,expense,Transport
+2026-09-08,PharmEasy - Medicines,536,expense,Health
+2026-09-08,UPI/Namma Metro/658859785,326,expense,Transport
+2026-09-08,Zepto - Order #96486,326,expense,Groceries
+2026-09-09,POS/Starbucks/Bengaluru,171,expense,Food & Dining
+2026-09-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-09-10,Zomato - Order #23902,610,expense,Food & Dining
+2026-09-12,Chaayos - Snacks,194,expense,Food & Dining
+2026-09-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-09-12,POS/Ola/Bengaluru,319,expense,Transport
+2026-09-12,Swiggy - Order #9967,805,expense,Food & Dining
+2026-09-12,UPI/Zomato/341276593,797,expense,Food & Dining
+2026-09-13,UPI/PVR Cinemas/707275319,330,expense,Entertainment
+2026-09-13,UPI/Starbucks/388660706,354,expense,Food & Dining
+2026-09-13,UPI/Swiggy Instamart/764702645,873,expense,Groceries
+2026-09-13,UPI/Swiggy/936939507,355,expense,Food & Dining
+2026-09-13,Zepto - Order #74959,213,expense,Groceries
+2026-09-14,UPI/Rohan Gupta/Cab share,696,expense,Transfers
+2026-09-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-09-15,Blinkit - Order #92410,179,expense,Groceries
+2026-09-15,UPI/Cafe Coffee Day/514838251,142,expense,Food & Dining
+2026-09-15,UPI/Swiggy/846342659,231,expense,Food & Dining
+2026-09-15,UPI/Zomato/943069959,864,expense,Food & Dining
+2026-09-17,Namma Metro - Card recharge,491,expense,Transport
+2026-09-18,Flipkart - Order #7066,2382,expense,Shopping
+2026-09-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-09-18,UPI/DMart/851613210,903,expense,Groceries
+2026-09-19,Cafe Coffee Day - Snacks,456,expense,Food & Dining
+2026-09-19,Flipkart - Order #98502,1286,expense,Shopping
+2026-09-19,Practo - Doctor consultation,565,expense,Health
+2026-09-20,Indane Gas - Cylinder refill,905,expense,Bills & Utilities
+2026-09-20,Indian Oil - Fuel,779,expense,Transport
+2026-09-20,POS/Uber/Bengaluru,166,expense,Transport
+2026-09-20,Zomato - Order #42754,289,expense,Food & Dining
+2026-09-21,Disney+ Hotstar - Super plan,299,expense,Entertainment
+2026-09-22,Amazon - Order #4687,953,expense,Shopping
+2026-09-23,POS/Uber/Bengaluru,193,expense,Transport
+2026-09-23,Practo - Doctor consultation,607,expense,Health
+2026-09-25,Swiggy - Order #6880,268,expense,Food & Dining
+2026-09-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-09-26,POS/Flipkart/Bengaluru,1559,expense,Shopping
+2026-09-26,Zepto - Order #78506,689,expense,Groceries
+2026-09-26,Zomato - Order #98156,228,expense,Food & Dining
+2026-09-27,Barbeque Nation - Indiranagar,825,expense,Food & Dining
+2026-09-27,Myntra - Order #88272,1573,expense,Shopping
+2026-09-27,Zomato - Order #20481,726,expense,Food & Dining
+2026-09-28,Swiggy Instamart - Order #18201,625,expense,Groceries
+2026-09-29,BigBasket - Groceries,1015,expense,Groceries
+2026-09-29,POS/Ola/Bengaluru,150,expense,Transport
+2026-09-29,Rapido - Trip #78146,74,expense,Transport
+2026-09-29,UPI/Rapido/817074737,324,expense,Transport
+2026-09-29,Zomato - Order #61845,227,expense,Food & Dining
+2026-09-30,Cafe Coffee Day - Coffee,463,expense,Food & Dining
+2026-09-30,Rapido - Ride,174,expense,Transport
+2026-09-30,Uber - Ride,92,expense,Transport
+2026-09-30,Interest Credit - HDFC Bank,622,income,Other Income
+2026-10-01,Swiggy Instamart - Order #61823,182,expense,Groceries
+2026-10-01,Salary Credit - Acme Technologies Pvt Ltd,78000,income,Salary
+2026-10-02,Cult.fit - Monthly membership,1299,expense,Health
+2026-10-02,Reliance Fresh - Vegetables and fruits,1664,expense,Groceries
+2026-10-03,BookMyShow - Movie tickets,866,expense,Entertainment
+2026-10-03,MakeMyTrip - Flight BLR-DEL,8740,expense,Transport
+2026-10-03,Tata 1mg - Medicines,770,expense,Health
+2026-10-03,UPI/PharmEasy/908537844,497,expense,Health
+2026-10-04,BookMyShow - Movie tickets,533,expense,Entertainment
+2026-10-04,POS/Nykaa/Bengaluru,2461,expense,Shopping
+2026-10-04,POS/Ola/Bengaluru,76,expense,Transport
+2026-10-04,Swiggy Instamart - Order #32431,481,expense,Groceries
+2026-10-04,UPI/Blinkit/780851356,319,expense,Groceries
+2026-10-05,UPI/House Rent/Landlord Ramesh Kumar,18000,expense,Rent
+2026-10-06,UPI/HP Petrol Pump/246570895,719,expense,Transport
+2026-10-07,Netflix - Monthly subscription,649,expense,Entertainment
+2026-10-07,UPI/Meghana Foods/913513768,403,expense,Food & Dining
+2026-10-07,UPI/Zomato/517530056,616,expense,Food & Dining
+2026-10-07,Uber - Trip #47183,211,expense,Transport
+2026-10-08,BESCOM - Electricity bill Oct 2026,1313,expense,Bills & Utilities
+2026-10-08,Indian Oil - Fuel,458,expense,Transport
+2026-10-08,Swiggy - Order #53226,408,expense,Food & Dining
+2026-10-09,HP Petrol Pump - Fuel,1130,expense,Transport
+2026-10-09,Nykaa - Order #45372,2786,expense,Shopping
+2026-10-09,POS/Cafe Coffee Day/Bengaluru,204,expense,Food & Dining
+2026-10-09,POS/Myntra/Bengaluru,697,expense,Shopping
+2026-10-09,UPI/Rahul Sharma/Cab share,508,expense,Transfers
+2026-10-09,Zepto - Order #14838,382,expense,Groceries
+2026-10-10,Rapido - Ride,331,expense,Transport
+2026-10-10,Society Maintenance - Prestige Apartments,1200,expense,Bills & Utilities
+2026-10-10,UPI/Chaayos/963713551,286,expense,Food & Dining
+2026-10-11,Swiggy - Order #8053,324,expense,Food & Dining
+2026-10-11,Swiggy - Order #97578,528,expense,Food & Dining
+2026-10-11,UPI/Behrouz Biryani/380992845,1275,expense,Food & Dining
+2026-10-11,UPI/Rapido/707331476,139,expense,Transport
+2026-10-11,UPI/Swiggy/673003251,629,expense,Food & Dining
+2026-10-12,Jio Prepaid - Recharge 349,349,expense,Bills & Utilities
+2026-10-12,Ola - Trip #82626,145,expense,Transport
+2026-10-12,UPI/Sneha Iyer/Cab share,449,expense,Transfers
+2026-10-13,POS/Rapido/Bengaluru,119,expense,Transport
+2026-10-13,Rapido - Ride,363,expense,Transport
+2026-10-13,Uber - Ride,74,expense,Transport
+2026-10-14,UPI/McDonald's/701343824,546,expense,Food & Dining
+2026-10-15,ACT Fibernet - Broadband bill,799,expense,Bills & Utilities
+2026-10-15,UPI/PharmEasy/952743739,245,expense,Health
+2026-10-15,UPI/Starbucks/321009434,196,expense,Food & Dining
+2026-10-15,Uber - Trip #98776,131,expense,Transport
+2026-10-17,POS/Starbucks/Bengaluru,505,expense,Food & Dining
+2026-10-17,POS/Swiggy Instamart/Bengaluru,333,expense,Groceries
+2026-10-17,UPI/Domino's Pizza/818603509,565,expense,Food & Dining
+2026-10-17,Zepto - Order #46197,295,expense,Groceries
+2026-10-18,Spotify - Premium Individual,119,expense,Entertainment
+2026-10-19,Amazon - Order #40917,9999,expense,Shopping
+2026-10-19,POS/Truffles/Bengaluru,1008,expense,Food & Dining
+2026-10-21,Disney+ Hotstar - Super plan,299,expense,Entertainment
+2026-10-21,POS/HP Petrol Pump/Bengaluru,443,expense,Transport
+2026-10-21,POS/Swiggy/Bengaluru,245,expense,Food & Dining
+2026-10-21,Third Wave Coffee - Snacks,184,expense,Food & Dining
+2026-10-23,POS/Ola/Bengaluru,275,expense,Transport
+2026-10-23,Zomato - Order #36606,357,expense,Food & Dining
+2026-10-24,UPI/Indian Oil/818963639,565,expense,Transport
+2026-10-24,UPI/Zomato/238221800,240,expense,Food & Dining
+2026-10-24,Uber - Trip #33464,103,expense,Transport
+2026-10-24,Upwork - Freelance payment,5000,income,Other Income
+2026-10-25,POS/Reliance Fresh/Bengaluru,1161,expense,Groceries
+2026-10-25,UPI/Swiggy/322896788,654,expense,Food & Dining
+2026-10-25,YouTube Premium - Monthly,149,expense,Entertainment
+2026-10-25,Zomato - Order #61049,239,expense,Food & Dining
+2026-10-26,Amazon - Order #16028,688,expense,Shopping
+2026-10-26,Zomato - Order #7429,223,expense,Food & Dining
+2026-10-27,Swiggy - Order #75328,538,expense,Food & Dining
+2026-10-28,PVR Cinemas - Movie tickets,1014,expense,Entertainment
+2026-10-30,POS/Ajio/Bengaluru,439,expense,Shopping
+2026-10-30,POS/Barbeque Nation/Bengaluru,1017,expense,Food & Dining
+2026-10-30,Swiggy - Order #9236,288,expense,Food & Dining
+2026-10-30,UPI/Rahul Sharma/Trip split,254,expense,Transfers
+2026-10-31,UPI/Zomato/558343815,642,expense,Food & Dining
+2026-10-31,Uber - Trip #9979,184,expense,Transport
